@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # YouTube Watch Party
 
 A room-based YouTube Watch Party built to match the supplied Full Stack Intern Assignment PDF. It uses React + TypeScript + Vite, Node.js + Express, Socket.IO for real-time communication, and the YouTube IFrame Player API.
+
+# Live link:-  
+https://client-three-blond-48.vercel.app/
 
 ## Assignment requirements covered
 
